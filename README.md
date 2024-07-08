@@ -5,6 +5,9 @@
 <a href='https://github.com/NaReddyJashwanthReddy/basicpythonprojects/blob/main/mastermind/pythoncode.py'>3. master mind</a>
 <br>
 <a href='https://github.com/NaReddyJashwanthReddy/basicpythonprojects/blob/main/hangmangame/pythoncode.py'>4. hangmangame</a>
+<br>
+<a href='https://github.com/NaReddyJashwanthReddy/basicpythonprojects/blob/main/21numbergame/pythoncode.py'>5. 21numbergame</a>
+
 
 
 
