@@ -9,6 +9,10 @@
 <a href='https://github.com/NaReddyJashwanthReddy/basicpythonprojects/blob/main/21numbergame/pythoncode.py'>5. 21numbergame</a>
 <br>
 <a href='https://github.com/NaReddyJashwanthReddy/basicpythonprojects/blob/main/2048/pythoncode.py'>6. 2048</a>
+<br>
+<a href='https://github.com/NaReddyJashwanthReddy/basicpythonprojects/blob/main/Flames/pythoncode.py'>6. Flames</a>
+
+
 
 
 
