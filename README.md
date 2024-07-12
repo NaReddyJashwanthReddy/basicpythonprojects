@@ -14,7 +14,7 @@
 <br>
 <a href='https://github.com/NaReddyJashwanthReddy/basicpythonprojects/blob/main/attendancetracking/pythoncode.py'>7. Attendancetracking</a>
 <br>
-<a href='https://github.com/NaReddyJashwanthReddy/basicpythonprojects/blob/main/Flames/pythoncode.py'>6. Flames</a>
+<a href='https://github.com/NaReddyJashwanthReddy/basicpythonprojects/blob/main/cowbull/pythoncode.py'>8. cowbull</a>
 
 
 
