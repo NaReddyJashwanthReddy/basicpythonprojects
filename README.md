@@ -17,6 +17,9 @@
 <a href='https://github.com/NaReddyJashwanthReddy/basicpythonprojects/blob/main/cowbull/pythoncode.py'>8. cowbull</a>
 <br>
 <a href='https://github.com/NaReddyJashwanthReddy/basicpythonprojects/blob/main/screenshot/pythoncode.py'>9. screenshot</a>
+<br>
+<a href='https://github.com/NaReddyJashwanthReddy/basicpythonprojects/blob/main/rockpaper/pythoncode.py'>10. rockpaperscissors</a>
+
 
 
 
